@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kelleyblackmore
 - 👀 I’m interested in 3d printers
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on parsers
+
 
 <!---
 kelleyblackmore/kelleyblackmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
