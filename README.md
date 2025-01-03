@@ -7,7 +7,7 @@
 - :printer: I'm fascinated by **3D printers** and love tinkering with them in my spare time.
 
 ## :hammer_and_wrench: Technical Skills
-- **Languages**: Python, Go, Java, JavaScript
+- **Languages**: Python, Go, Java, JavaScript, Flutter
 - **DevOps & Cloud**: Terraform, Ansible, Kubernetes (RKE/Rancher), Docker/Podman
 - **Tools & Platforms**: Git (GitHub/GitLab/Bitbucket), Jenkins, GitHub Actions, GitLab Runners, AWS, Azure, GCP
 - **Security & Compliance**: HashiCorp Vault, STIG compliance, container security
