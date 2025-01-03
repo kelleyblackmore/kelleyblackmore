@@ -1,8 +1,8 @@
-# Hi there, I'm Kelley Blackmore! :wave:
+# Hi there, I'm Kris! :wave:
 
 ## :sparkles: About Me
 - :man_technologist: I'm a passionate problem solver and idea maker.
-- :desktop_computer: Currently focusing on DevOps, Cloud Infrastructure, and Security.
+- :desktop_computer: Currently focusing on DevOps, Cloud Infrastructure, and General Engineer.
 - :seedling: Always learning—right now, I'm exploring more in **Go**.
 - :printer: I'm fascinated by **3D printers** and love tinkering with them in my spare time.
 
