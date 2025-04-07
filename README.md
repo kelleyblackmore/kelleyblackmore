@@ -1,4 +1,4 @@
-# Hi there, I'm Kris! :wave:
+
 
 ## :sparkles: About Me
 - :man_technologist: I'm a passionate problem solver and idea maker.
