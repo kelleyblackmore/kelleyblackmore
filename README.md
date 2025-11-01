@@ -8,7 +8,7 @@
 - 🖱️ Exploring computer use with MCP
 
 ## :hammer_and_wrench: Technical Skills
-- **Languages**: Python, Go, Java, JavaScript, Flutter
+- **Languages**: Python, Go, Java, JavaScript, TypeScript, Flutter
 - **DevOps & Cloud**: Terraform, Ansible, Kubernetes (RKE/Rancher), Docker/Podman
 - **Tools & Platforms**: Git (GitHub/GitLab/Bitbucket), Jenkins, GitHub Actions, GitLab Runners, AWS, Azure, GCP
 - **Security & Compliance**: HashiCorp Vault, STIG compliance, container security
