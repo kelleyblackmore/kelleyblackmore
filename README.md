@@ -15,4 +15,4 @@
 - **UI & Tooling Excellence:**  
   Utilize component libraries and state‑management tools like Radix UI, shadcn/ui, TanStack React Query, and Tailwind CSS for consistent and accessible interfaces:contentReference[oaicite:16]{index=16}:contentReference[oaicite:17]{index=17}. Employ Vite for fast builds and integrate Drizzle ORM for type‑safe data access:contentReference[oaicite:18]{index=18}.  
 - **Accessibility & Responsive Design:**  
-  Incorporate accessibility features such as skip navigation links, responsive menus, and semantic HTML to ensure inclusive user experiences across devices:contentReference[oaicite:19]{index=19}.  
+  Incorporate accessibility features such as skip navigation links, responsive menus, and semantic HTML to ensure inclusive user experiences across devices.  
