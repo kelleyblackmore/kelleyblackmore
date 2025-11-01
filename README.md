@@ -7,7 +7,7 @@
 - **Database & API Design:**  
   Modelled relational schemas for sessions, users, clients, appointments, workouts, assignments, and progress tracking using Drizzle ORM and PostgreSQL. Defined relationships and validation schemas with Zod for type safety.  
 - **Dynamic Workout Forms:**  
-  Implemented interactive workout forms that allow trainers to add, remove, and customise exercises with live validation using React Hook Form and Zod:contentReference[oaicite:5]{index=5}:contentReference[oaicite:6]{index=6}. Provided quick‑select lists of common exercises and dynamic state management:contentReference[oaicite:7]{index=7}.  
+  Implemented interactive workout forms that allow trainers to add, remove, and customise exercises with live validation using React Hook Form and Zod. Provided quick‑select lists of common exercises and dynamic state management.  
 - **Marketing & Landing Pages:**  
   Built marketing pages for Train to Roam featuring hero sections, program descriptions, process steps, pricing tiers, testimonials, and a call to action:contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}. Designed these pages in Next.js with responsive layouts and accessible markup:contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}.  
 - **Client Intake & Contact Forms:**  
