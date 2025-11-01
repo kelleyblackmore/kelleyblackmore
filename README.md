@@ -9,7 +9,7 @@
 - **Dynamic Workout Forms:**  
   Implemented interactive workout forms that allow trainers to add, remove, and customise exercises with live validation using React Hook Form and Zod. Provided quick‑select lists of common exercises and dynamic state management.  
 - **Marketing & Landing Pages:**  
-  Built marketing pages for Train to Roam featuring hero sections, program descriptions, process steps, pricing tiers, testimonials, and a call to action:contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}. Designed these pages in Next.js with responsive layouts and accessible markup:contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}.  
+  Built marketing pages for Train to Roam featuring hero sections, program descriptions, process steps, pricing tiers, testimonials, and a call to action. Designed these pages in Next.js with responsive layouts and accessible markup.  
 - **Client Intake & Contact Forms:**  
   Developed a user‑friendly intake form that collects client details, goals, availability, and coaching preferences; includes real‑time validation and submits asynchronously to an API:contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13}. Handles errors and success messages to improve user experience:contentReference[oaicite:14]{index=14}:contentReference[oaicite:15]{index=15}.  
 - **UI & Tooling Excellence:**  
