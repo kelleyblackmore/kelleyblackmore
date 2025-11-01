@@ -5,6 +5,7 @@
 - :desktop_computer: Currently focusing on DevOps, Cloud Infrastructure, and General Engineer.
 - :seedling: Always learning—right now, I'm exploring more in **Go**.
 - :printer: I'm fascinated by **3D printers** and love tinkering with them in my spare time.
+- 🖱️ Exploring computer use with MCP
 
 ## :hammer_and_wrench: Technical Skills
 - **Languages**: Python, Go, Java, JavaScript, Flutter
