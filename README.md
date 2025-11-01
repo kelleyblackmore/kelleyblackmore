@@ -5,7 +5,7 @@
 - **Full‑Stack Fitness Platforms:**  
   Built a comprehensive fitness coaching platform enabling trainers to manage clients, schedule sessions, create workouts, and track progress:contentReference[oaicite:0]{index=0}. The system uses a modern React/TypeScript frontend and an Express/PostgreSQL backend with TanStack React Query, Tailwind CSS, Drizzle ORM, and OIDC:contentReference[oaicite:1]{index=1}.  
 - **Database & API Design:**  
-  Modelled relational schemas for sessions, users, clients, appointments, workouts, assignments, and progress tracking using Drizzle ORM and PostgreSQL:contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}. Defined relationships and validation schemas with Zod for type safety:contentReference[oaicite:4]{index=4}.  
+  Modelled relational schemas for sessions, users, clients, appointments, workouts, assignments, and progress tracking using Drizzle ORM and PostgreSQL. Defined relationships and validation schemas with Zod for type safety.  
 - **Dynamic Workout Forms:**  
   Implemented interactive workout forms that allow trainers to add, remove, and customise exercises with live validation using React Hook Form and Zod:contentReference[oaicite:5]{index=5}:contentReference[oaicite:6]{index=6}. Provided quick‑select lists of common exercises and dynamic state management:contentReference[oaicite:7]{index=7}.  
 - **Marketing & Landing Pages:**  
